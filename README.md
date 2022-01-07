@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=discord.gg/1337&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/1337)](https://discord.gg/1337)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pejjooss1337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=pejjooss1337)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer and Gamer!!
 
 - 👋 Hi, I’m @pejjooss1337
 - 👀 I’m interested in all kinds of programming and gaming.
