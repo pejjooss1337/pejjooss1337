@@ -5,11 +5,13 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👋 Hi, I’m @pejjooss1337
+- 👀 I’m interested in all kinds of programming and gaming.
+- 🌱 I’m currently learning C# and C++
+- 💞️ I’m experienced Lua and Python developer. 
+- 👨‍💻 Mostly I'm making Bots, Panels, Executors, Menus and Custom Fivem Scripts! 
+- 📫 How to reach me :
+- 💻 You can find me on Discord, Instagram and Telegram
 
 ### Connect with me:
 
