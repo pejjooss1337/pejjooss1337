@@ -9,7 +9,7 @@
 - 👀 I’m interested in all kinds of programming and gaming.
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m experienced Lua and Python developer. 
-- 👨‍💻 Mostly I'm making Bots, Panels, Executors, Menus and Custom Fivem Scripts! 
+- 👨‍💻 Mostly I'm making Bots, Panels, Executors, Menus and Custom FiveM Scripts! 
 - 📫 How to reach me :
 - 💻 You can find me on Discord, Instagram and Telegram
 
