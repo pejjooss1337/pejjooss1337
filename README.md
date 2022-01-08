@@ -64,11 +64,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Soon...](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Soon...](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Soon...](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Soon...](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Soon...](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Soon...](https://www.youtube.com/channel/UC4OYmboGqeMWeMtHAYagPng)
+- [Soon...](https://www.youtube.com/channel/UC4OYmboGqeMWeMtHAYagPng)
+- [Soon...](https://www.youtube.com/channel/UC4OYmboGqeMWeMtHAYagPng)
+- [Soon...](https://www.youtube.com/channel/UC4OYmboGqeMWeMtHAYagPng)
+- [Soon...](https://www.youtube.com/channel/UC4OYmboGqeMWeMtHAYagPng)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
